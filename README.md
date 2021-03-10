@@ -4,7 +4,7 @@ Use these commands in the inspect element "console" section, then reload the pag
 
 If something breaks, use the following command to reset your game:
 
-'localStorage.clear()'
+`localStorage.clear()`
 
 That's pretty much it! And remember - 
 

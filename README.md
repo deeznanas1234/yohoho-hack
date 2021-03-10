@@ -1,2 +1,7 @@
 # yohoho-hack
-Cheats for Yohoho.io
+Cheats for Yohoho.io.
+Use these commands in the inspect element "console" section, then reload the page for them to work.
+
+That's pretty much it! And remember - 
+
+## Use your powers wisely!
